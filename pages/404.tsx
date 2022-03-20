@@ -11,7 +11,7 @@ export default function Warning() {
         Error 404 - Page not found
       </Heading>
       <Text color={'gray.500'}>
-        Not sure how you got here but hey it's okay.
+        Not sure how you got here but hey it&apos;s okay.
       </Text>
       <Link href="/">
         <Button colorScheme={'cyan'} mt={'4'}>Click here to go <Icon ml={'2'} as={RiHome3Fill} /></Button>
